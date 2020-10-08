@@ -1,0 +1,1 @@
+src/main/scala/Lab2 conține 2 subdirectoare, Lab1_1.0 și Lab2. Cel încărcat corect este Lab2
